@@ -1,2 +1,1 @@
 ﻿# ollama-practical-2
-
