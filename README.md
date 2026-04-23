@@ -1,4 +1,4 @@
-# 🤖🦙 Ollama Practical 2 (Express + Ollama Chat Demo)
+# 🤖🦙 Ollama Express Demo 
 
 > 🚀 A simple Node.js + Express app that uses **Ollama** to run a local LLM chat request and serves a tiny web UI from `/public`.
 
