@@ -135,6 +135,7 @@ curl http://localhost:3000/test
 
 ---
 
+<!--
 ## 🖼️📸 Screenshots
 
 - ✅🖥️ **Home UI** (`/public/index.html`) with a single **Test** button
@@ -156,6 +157,7 @@ assets/ui-alert.png
 ```
 
 ---
+-->
 
 ## 🛠️🧩 Configuration Tips
 
