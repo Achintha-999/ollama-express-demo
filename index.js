@@ -16,4 +16,3 @@ app.get("/test", async (req, res) => {
 
 app.use(express.static('public'));
 app.listen(3000);
-
